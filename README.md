@@ -43,7 +43,6 @@ JavaScript: Managing quiz logic, including question display, answer validation, 
 │── index.html
 │── styles.css
 │── script.js
-│── README.md
 
 index.html: Contains the structure of the quiz, including the question display area, answer options, and buttons.
 
