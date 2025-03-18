@@ -73,4 +73,4 @@ If you don't have the Live Server extension, install it from the VS Code marketp
 The quiz application will open in your default browser.
 
 #Output
-![Image](https://github.com/user-attachments/assets/0ec8999c-d84b-4184-b34e-4aa81bb0ceeb)
+![Image](https://github.com/user-attachments/assets/710313a7-fa84-4af3-8705-b0bbab22390b)
