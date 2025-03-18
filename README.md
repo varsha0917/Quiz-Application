@@ -47,6 +47,7 @@ JavaScript: Managing quiz logic, including question display, answer validation, 
 #File Structure
 
 /interactive-quiz-application
+
 │── index.html
 
 │── styles.css
