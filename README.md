@@ -13,6 +13,7 @@ MENTOR: NEELA SANTOSH
 
 
 ##About the Task
+
 #Project Overview
 
 The Interactive Quiz Application is a frontend-only project developed using HTML, CSS, and JavaScript. The project is designed to provide an engaging and user-friendly platform for users to take quizzes on various topics. This application runs solely on the client side and can be easily executed in a local development environment like Visual Studio Code (VS Code).
@@ -47,8 +48,11 @@ JavaScript: Managing quiz logic, including question display, answer validation, 
 
 /interactive-quiz-application
 │── index.html
+
 │── styles.css
+
 │── script.js
+
 
 index.html: Contains the structure of the quiz, including the question display area, answer options, and buttons.
 
