@@ -1,10 +1,16 @@
 # Quiz-Application
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: Parveda Varsha
+
 INTERN ID: CT04WJ56
+
 DOMAIN: Frontend Web Development
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
+
 
 ##About the Task
 #Project Overview
