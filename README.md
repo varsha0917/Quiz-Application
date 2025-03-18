@@ -71,3 +71,6 @@ Right-click on the index.html file and select Open with Live Server.
 If you don't have the Live Server extension, install it from the VS Code marketplace.
 
 The quiz application will open in your default browser.
+
+#Output
+![Image](https://github.com/user-attachments/assets/0ec8999c-d84b-4184-b34e-4aa81bb0ceeb)
